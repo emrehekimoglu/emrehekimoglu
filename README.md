@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emre hekimoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-hekimoglu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emre-hekimoglu-2bb115228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-hekimoglu-2bb115228" height="30" width="40" /></a>
 <a href="https://instagram.com/emrehekimoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrehekimoglu" height="30" width="40" /></a>
 </p>
 
