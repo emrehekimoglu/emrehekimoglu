@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PientyCRM**
 
-- 🌱 I’m currently learning **Information systems engineering in Atılım University**
+- 🌱 I’m currently studying **Information Systems Engineering and Computer Engineering in Atılım University**
 
 - 📫 How to reach me **emrehekimoglu@computer.org**
 
