@@ -30,18 +30,18 @@ Yazılım geliştirme sürecinde sistem tasarımı, backend geliştirme ve yapay
 
 Full-stack bir konser biletleme ve yönetim sistemi.
 
-🔗 https://github.com/emrehekimoglu/concert-ticket-management-system
+🔗 [Buraya tıklayarak ulaşabilirsiniz](https://github.com/emrehekimoglu/concert-ticket-reservation-system)
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emrehekimoglu&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrehekimoglu&theme=tokyonight"/>
 </p>
 
 ---
