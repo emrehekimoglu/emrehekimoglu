@@ -24,7 +24,13 @@ Yazılım geliştirme sürecinde sistem tasarımı, backend geliştirme ve yapay
 
 ---
 
-## 🎟️ Öne Çıkan Proje
+## 🎟️ Öne Çıkan Projeler
+
+### Dungeon RPG
+
+Terminal tabanlı bir rol yapma oyunu.
+
+🔗 [Buraya tıklayarak ulaşabilirsiniz](https://github.com/emrehekimoglu/dungeon-rpg)
 
 ### Concert Ticket Management System
 
